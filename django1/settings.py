@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-6rxkwnqc$ecs_c!w=41q5^96#r0m#z#az7pmjldf!8=+3q@)u9
 # DEBUG com valor Flase = modo producao
 DEBUG = False
 
-ALLOWED_HOSTS = ['django1-adess.herokuapp.com/']  #
+ALLOWED_HOSTS = ['django1-adess.herokuapp.com']  #
 
 # Application definition
 
